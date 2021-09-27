@@ -1,5 +1,5 @@
 {
-  "name": "markette/gopay",
+  "name": "martinsvacinka/gopay",
   "description": "Integrace platebního systému Gopay pro Nette Framework.",
   "keywords": [
     "nette",
@@ -7,7 +7,7 @@
     "payment",
     "gopay"
   ],
-  "homepage": "https://github.com/contributte/gopay",
+  "homepage": "https://github.com/martinsvacinka/gopay",
   "license": "MIT",
   "authors": [
     {
@@ -30,9 +30,9 @@
   "require": {
     "php": ">=7.1",
     "markette/gopay-api": "^2.5.4",
-    "nette/forms": "^3.1.0",
-    "nette/application": "^3.1.0",
-    "nette/di": "^3.0.8"
+    "contributte/forms": "^0.4.0",
+    "contributte/application": "^0.4.0",
+    "contributte/di": "^0.4.2"
   },
   "require-dev": {
     "mockery/mockery": "^1.3",
